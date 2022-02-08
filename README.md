@@ -10,7 +10,7 @@
 <p align="center">
 
   <a href="https://allmach.github.io/">
-    <img alt="Made by Allan" src="https://img.shields.io/badge/made%20by-GersonRS-blueviolet">
+    <img alt="Made by Allan" src="https://img.shields.io/badge/made%20by-AllanRS-blueviolet">
   </a>
 
   <img alt="License" src="https://img.shields.io/github/license/GersonRS/Challenge-React-Native?color=blueviolet&logo=asa&logoColor=blue">
