@@ -1,6 +1,6 @@
 # APIRestFlask - NExT Ford
 
-## Desenvolvimento uma API com Flask em Python para um restaurante delivery
+## Desenvolvimento uma API com Flask em Python para cadastro de Pratos em um Restaurante delivery
 
 ---
 <h3 align="center">
