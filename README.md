@@ -45,9 +45,11 @@ Agora que você já está com o template instalado e pronto para continuar, voc�
   
   - **Rota `/login`**: Realiza o login de usuários cadastrados na API
 
-  - **Rota `/new`**: Realiza o cadastro de novos produtos na API
+  - **Rota `/create`**: Realiza o cadastro de novos produtos na API
 
   - **Rota `/edit/:id`**: Edita um produto cadastrado na API baseado no `id`
+  
+  - **Rota `/update`**: Atualiza um produto cadastrado na API baseado no `id`
 
   - **Rota `/delete`**: Deleta produtos cadastrados que foram cadastrados na API
 
