@@ -37,7 +37,7 @@ Agora que você já está com o template instalado e pronto para continuar, voc�
 
 - **`Cadastrar um prato de comida na API`**: API é capaz de cadastrar um novo produto.
 
-- **`Buscar pratos de comida ou categorias por id ou com filtros personalizados`**: A API é capaz de fazer uma busca na API de acordo com o parametro enviado na sua requisição.
+- **`Buscar pratos de comida ou categorias por id`**: A API é capaz de fazer uma busca na API de acordo com o parametro enviado na sua requisição.
 
 - **`Listar os pedidos da sua API`**: Sua API deve ser capaz de retornar uma listagem, com as informações dos produtos pedidos, de todos os pedidos que estão cadastrados na sua API.
 
