@@ -17,13 +17,13 @@
 
 ## :rocket: Sobre o desafio
 
-Nesse desafio, foi desenvolvido uma API REST, que atende a um Restaurante. Foram aplicados conhecimentos aprendidos no modulo de Back-End do NExT com Python e Flask, para criar uma pequena API para cadastro de pratos de comida.
+Nesse desafio, foi desenvolvido uma API REST, que atende a um Restaurante. Foram aplicados conhecimentos aprendidos no modulo de Back-End do NExT Ford e Cesar School com Python e Flask, para criar uma pequena API para cadastro de pratos de comida.
 
 Essa API receberá requisições de um aplicativo movel, e retornará os pratos de comida cadastrados na API e permitirá a criação, edição e deleção de novos pedidos.
 
 ## Configuração do Projeto
 
-Python 3.10.1, Flask, pip para gerenciamento de dependências, SQLite e MySQL Database para banco de dados.
+Python 3.10.1, Flask, pip para gerenciamento de dependências e MySQL Database para banco de dados.
 
 Antes de tudo, neste projeto não defini os requisitos do sistema, ficou ao cargo dos meus pensamentos para praticar as funcionalidades.
 
@@ -62,6 +62,14 @@ Para executar esse servidor foi necessário configurar as variáveis do flask(FL
 Essa é uma aplicação totalmente escalável, isso significa que além das específicações, após finalizado o desafio, é totalmente possível implementar mais funcionalidades a essa aplicação, e essa será uma ótima maneira para fixar os conhecimentos.
 
 Você pode implementar desde funcionalidades simples que não foram específicadas nos testes, como a finalização completa de um pedido, ou uma página que irá mostrar dados do pedido realizado.
+
+## Login e Senha de Acesso Cadastrados:
+
+Cadastrado previamente no Mysql:
+
+Login: fulano
+
+Senha: 12345
 
 ## :memo: Licença
 

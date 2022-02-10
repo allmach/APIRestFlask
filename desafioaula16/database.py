@@ -31,8 +31,7 @@ cursor = conn.cursor()
 cursor.executemany(
       'INSERT INTO user (id, name, password) VALUES (%s, %s, %s)',
       [
-            ('allan', 'Allan Machado', '1234'),
-            ('lorena', 'Lorena Machado', '5678'),
+            ('fulano', 'Fulano de Tal', '1234'),
       ])
 
 cursor.execute('select * from user')
@@ -45,8 +44,6 @@ cursor.executemany(
       'INSERT INTO restaurant (plate, category, price) VALUES (%s, %s, %s)',
       [
             ('Moqueca de Camarao', 'Frutos do Mar', '150,00'),
-            ('Moqueca de Peixe', 'Frutos do Mar', '120,00'),
-            ('Lasanha', 'Massas', '95,00'),
       ])
 
 cursor.execute('select * from restaurant')
